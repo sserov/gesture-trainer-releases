@@ -1,7 +1,7 @@
 {
-  "version": "0.0.25-rc1",
-  "url": "https://github.com/sserov/gesture-trainer-releases/releases/download/v0.0.24-rc1/GestureTrainer-0.0.24rc1-windows.zip",
-  "sha256": "f7e58655b6c6dcdd421419400707b1d3b330b8d0f9ca49d31f5dae196e2dc605",
-  "released": "2025-09-11T19:32:12Z",
-  "notes_url": "https://github.com/sserov/gesture-trainer-releases/releases/tag/v0.0.24-rc1"
+  "version": "0.0.24-rc2",
+  "url": "https://github.com/sserov/gesture-trainer-releases/releases/download/v0.0.24-rc2/GestureTrainer-0.0.24rc2-windows.zip",
+  "sha256": "c958127315c43f10cd509bb38740fa86f9dae611779abc67b63999419aef2742",
+  "released": "2025-09-14T10:51:42Z",
+  "notes_url": "https://github.com/sserov/gesture-trainer-releases/releases/tag/v0.0.24-rc2"
 }
