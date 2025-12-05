@@ -13,7 +13,7 @@
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure 
                 url="https://github.com/sserov/gesture-trainer-releases/releases/download/v0.0.28/GestureTrainer-0.0.28-macos.dmg"
-                sparkle:edSignature="Yk1fW/ZLNRY7JWKH+92yEKC0vFoQLvKNK3LosJYoJnjWOS3G3M+8OESVRK9VHdgQz3XCbALGpdqST9Eo493wAw=="
+                sparkle:edSignature="2Ya1wh10tr7sQJFHdv4Is6Z0qr0j0qoJUVZ/uE56SX/HvpslYUT1r+0Ly+7KBjMEOV+ZG8aku+Nm4TaK9HrJDA=="
                 length="498390820"
                 type="application/octet-stream"
             />
