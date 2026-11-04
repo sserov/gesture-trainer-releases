@@ -1,12 +1,12 @@
 {
-  "version": "0.0.29",
-  "url": "https://github.com/sserov/gesture-trainer-releases/releases/download/v0.0.29/GestureTrainer-0.0.29-windows.zip",
-  "sha256": "309eabe064080ab06277719dc5be9d8218e936b49f657684f8c1e3d6922d01dd",
-  "released": "2026-10-25T22:24:04Z",
-  "notes_url": "https://github.com/sserov/gesture-trainer-releases/releases/tag/v0.0.29",
+  "version": "0.0.30",
+  "url": "https://github.com/sserov/gesture-trainer-releases/releases/download/v0.0.30/GestureTrainer-0.0.30-windows.zip",
+  "sha256": "edcb029a1c0e95b72317dadfd78ed36f044163e6dbcfbe4ce394ff66e4b1acb7",
+  "released": "2026-11-04T11:39:56Z",
+  "notes_url": "https://github.com/sserov/gesture-trainer-releases/releases/tag/v0.0.30",
   "macos": {
-    "url": "https://github.com/sserov/gesture-trainer-releases/releases/download/v0.0.29/GestureTrainer-0.0.29-macos.dmg",
-    "sha256": "626eb3d2e42e9837057315d8fd5f118c19638818d3719115a15419b5dfeafca3",
+    "url": "https://github.com/sserov/gesture-trainer-releases/releases/download/v0.0.30/GestureTrainer-0.0.30-macos.dmg",
+    "sha256": "68f7a4484e828029e8402c62f2b0dacdbde87e6fe377dd7256a8e2ca5229a09a",
     "notes": "Download and install the .dmg file"
   }
 }
